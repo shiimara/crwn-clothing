@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './directory.styles.scss';
 
 import MeniItem from '../menu-item/menu-item.componet';
